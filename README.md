@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Alexischlau/Alexischlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hello, I am Alexandra from Munich 👋</h1>
 <h3 align="center">I have completed a Data Practitioner (Data Science / Data Analytics) Bootcamp at <a href="https://www.neuefische.de/" target="_blank">neuefische</a></p>
